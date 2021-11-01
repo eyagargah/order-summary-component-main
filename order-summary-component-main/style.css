@@ -77,14 +77,14 @@ body {
 
 .plan-box a {
     font-weight: 900;
-    color: hsl(223, 47%, 23%);
+    color: hsl(244, 60%, 57%);
     transition: color .3s ease;
 }
 
 
 .plan-box a:hover {
     text-decoration: none;
-    color: hsl(245, 75%, 52%);
+    color: hsl(244, 82%, 68%);
 }
 
 a.proceed-btn  {
@@ -100,7 +100,7 @@ a.proceed-btn  {
 }
 
 a.proceed-btn:hover {
-    background-color: hsl(224, 23%, 55%);
+    background-color: hsl(244, 82%, 68%);
 }
 
 a.cancel-btn {
